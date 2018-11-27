@@ -1,5 +1,5 @@
 provider "docker" 
-{   host = "tcp://localhost:2375" 
+{   host = "tcp://192.168.112.24:2375" 
     
 }
 
